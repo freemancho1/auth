@@ -1,27 +1,12 @@
-# Todos
-#### [reverse]
-<br/><br/>
+# 작업 진행사항
+<br/>
+
+## 이후 할일
+#### 1. Vue.js을 이용해 axios 통신 구현
+###### 인증하고(토큰 생성하고), 토큰 갱신하는 방법 시험
+<br/>
 
 ## 2022-04-08(Fri)
-<br/>
-
-### 이후 수행할 내용
-#### ㅇㅇㅇ
-<br/>
-
-### Server 작업
-#### config/settings.py
-##### * DRF 및 DRF 인증관련 내용 설정
-```python
-# Django
-'rest_framework',
-'rest_framework_simplejwt',
-
-# CORS
-'corsheaders',
-
-# Local Apps
-'blog',
-```
-* MIDDLEWARE에 CORS관련 내용 추가
-* CORS관련 허용 도메인:포트 지정(http://localhost:8080)
+#### 1. config/settings.py 설정
+#### 2. 기본적인 인증관련 URL 생성
+#### 3. blog app 생성(모델, 뷰, url 구현)
