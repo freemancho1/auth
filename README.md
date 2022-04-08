@@ -10,4 +10,4 @@
 <br/><br/>
 
 ## Technology
-* Django REST framework with JWT
+* Django REST framework with SimpleJWT

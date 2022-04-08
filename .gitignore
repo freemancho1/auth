@@ -1,2 +1,7 @@
 frontend/node_modules
 frontend/dist
+
+server/db.sqlite3
+server/blog/__pycache__
+server/blog/migrations
+server/config/__pycache__
