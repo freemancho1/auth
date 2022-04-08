@@ -1,5 +1,5 @@
 # Authentication & authorization 
-#### in Django REST API and Vue.js 3.x
+### in Django REST API and Vue.js 3.x
 
 <br/><br/>
 
