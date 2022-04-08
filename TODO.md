@@ -4,9 +4,13 @@
 
 ## 2022-04-08(Fri)
 
-### Server 작업 완료
+### 이후 수행할 내용
+#### ㅇㅇㅇ
+<br/>
+
+### Server 작업
 #### config/settings.py
-* INSTALLED_APPS에 DRF, SimpleJWT, CORS, MyApp 지정
+##### DRF 및 DRF 인증관련 내용 설정
 ```python
 # Django
 'rest_framework',
