@@ -3,7 +3,6 @@
 <br/><br/>
 
 ## 2022-04-08(Fri)
-<br/>
 
 ### Server 작업 완료
 * config/settings.py
