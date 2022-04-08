@@ -3,6 +3,7 @@
 <br/><br/>
 
 ## 2022-04-08(Fri)
+<br/>
 
 ### 이후 수행할 내용
 #### ㅇㅇㅇ
@@ -10,7 +11,7 @@
 
 ### Server 작업
 #### config/settings.py
-##### DRF 및 DRF 인증관련 내용 설정
+##### * DRF 및 DRF 인증관련 내용 설정
 ```python
 # Django
 'rest_framework',
